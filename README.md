@@ -1,16 +1,8 @@
-# bitcoin_tracker
+# Crypto Tracker
 
-Flutter application that tracks the values of crypto currencies.
+Cross-platform application that let's the user track the value of Bitcoin, Ethereum and Litecoin in many different fiat currencies. The application was developed with Dart, Flutter and CoinAPI, and it also includes custom UI components for iOS and Android.
 
-## Getting Started
+# Screenshots 
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/90746623/216460990-db57d4d1-0ff7-404f-8d8d-8dfe7e281ccd.png" width="296" height="527"/><img src="https://user-images.githubusercontent.com/90746623/216460991-dc6812a5-ba3c-4b7e-9a40-503b59a142b7.png" width="296" height="527"/> 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
